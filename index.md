@@ -27,3 +27,17 @@ Laivly - 24/7 Intouch | Jan - April 2020
 * Collaborated with the UX and product teams to build a new ‘chatbot assistant’ which could easily be integrated with slack and help team members to access resources efficiently.
 
 ---
+
+## Technical Skills
+### Languages 
+• Java • C# • C / C++
+• TypeScript, JavaScript • SQL 
+• XAML, XML • HTML, CSS • JSON 
+### Software
+• Git, XCode, Visual Studio • Microsoft UI Automation 
+• Node.js, React, Redux • REST, .NET, WPF
+• SQL Server, MongoDB • AWS, Postman, Unity
+• JUnit, Mocha, Selenium  • Bitbucket, JIRA
+
+---
+
