@@ -29,7 +29,7 @@ Laivly - 24/7 Intouch | Jan - April 2020
 ---
 
 ## Technical Skills
-### Languages 
+#### Languages 
 • Java • C# • C / C++
 • TypeScript, JavaScript • SQL 
 • XAML, XML • HTML, CSS • JSON 
