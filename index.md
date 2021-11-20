@@ -5,7 +5,7 @@
 
 ## Education
  Bachelor of Science, Major in Computer Science (Co-op)  
- *University of Manitoba*        *Expected Graduation : Sept 2022*  
+ *University of Manitoba*    <br /> *Expected Graduation : Sept 2022*  
  Jan 2018 - Present  
  
 ---
