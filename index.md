@@ -24,7 +24,7 @@
 ---
 ## Work Experience
 #### Software Developer | Co-op Work Term 3
-Pollard Banknote Limited | May - Aug 2021
+**Pollard Banknote Limited** | May - Aug 2021
 * Developed and shipped 2 new second-chance lottery web games, which got published and is used by multiple state lottery clients internationally. 
 * Implemented web components in ReactJS to build monthly draw winners’ section and improved site’s performance, SEO, and accessibility.
 
