@@ -41,3 +41,14 @@ Laivly - 24/7 Intouch | Jan - April 2020
 
 ---
 
+## Projects
+#### Sheezy-Shopping | Sept 2019 - Dec 2019
+* E-Commerce website which filters products and displays them uniquely in a live shopping cart. Built using React and Node.js
+
+#### Auction-App  | Nov 2019
+* Allows sellers to create detailed and varied auctions. Built using Android studio and HSQLDB.
+
+#### Techstorf | Nov 2019
+* User-friendly Tech jobs searching android application. Written with Java using Android Studio, SQLite Database, and Hacker News API.
+
+
