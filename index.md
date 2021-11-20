@@ -50,4 +50,11 @@
 #### Techstorf | Personal, 2019
 * User-friendly Tech jobs searching android application. Written with Java using Android Studio, SQLite Database, and Hacker News API.
 
+---
 
+## Extracurricular
+#### Member - UMSU Budget Committee
+* Allocated $20,000 to support mental health and recreational initiatives on campus.
+
+#### CSSA Programming Contest 
+* Competed locally at the University of Manitoba.
