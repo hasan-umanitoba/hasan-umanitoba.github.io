@@ -10,6 +10,18 @@
 
 ---
 
+## Technical Skills
+#### Languages 
+• Java • C# • C / C++
+• TypeScript, JavaScript • SQL 
+• XAML, XML • HTML, CSS • JSON 
+#### Software
+• Git, XCode, Visual Studio • Microsoft UI Automation 
+• Node.js, React, Redux • REST, .NET, WPF
+• SQL Server, MongoDB • AWS, Postman, Unity
+• JUnit, Mocha, Selenium  • Bitbucket, JIRA
+
+---
 ## Work Experience
 #### Software Developer | Co-op Work Term 3
 Pollard Banknote Limited | May - Aug 2021
@@ -28,27 +40,14 @@ Laivly - 24/7 Intouch | Jan - April 2020
 
 ---
 
-## Technical Skills
-#### Languages 
-• Java • C# • C / C++
-• TypeScript, JavaScript • SQL 
-• XAML, XML • HTML, CSS • JSON 
-#### Software
-• Git, XCode, Visual Studio • Microsoft UI Automation 
-• Node.js, React, Redux • REST, .NET, WPF
-• SQL Server, MongoDB • AWS, Postman, Unity
-• JUnit, Mocha, Selenium  • Bitbucket, JIRA
-
----
-
 ## Projects
-#### Sheezy-Shopping | Sept 2019 - Dec 2019
+#### Sheezy-Shopping | Personal, 2020
 * E-Commerce website which filters products and displays them uniquely in a live shopping cart. Built using React and Node.js
 
-#### Auction-App  | Nov 2019
+#### Auction-App  | Software Engineering Team Project, 2020
 * Allows sellers to create detailed and varied auctions. Built using Android studio and HSQLDB.
 
-#### Techstorf | Nov 2019
+#### Techstorf | Personal, 2019
 * User-friendly Tech jobs searching android application. Written with Java using Android Studio, SQLite Database, and Hacker News API.
 
 
