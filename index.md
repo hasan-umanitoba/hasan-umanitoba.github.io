@@ -6,6 +6,6 @@
 ## Education
  Bachelor of Science, Major in Computer Science (Co-op)  
  **University of Manitoba**   *Expected Graduation : Sept 2022*  
- #### sdsd
+ International Undergraduate Scholarship, Dean’s Honor List-Winter 2019, 2018
 
 ---
