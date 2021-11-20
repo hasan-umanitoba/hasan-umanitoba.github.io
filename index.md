@@ -33,7 +33,7 @@ Laivly - 24/7 Intouch | Jan - April 2020
 • Java • C# • C / C++
 • TypeScript, JavaScript • SQL 
 • XAML, XML • HTML, CSS • JSON 
-### Software
+#### Software
 • Git, XCode, Visual Studio • Microsoft UI Automation 
 • Node.js, React, Redux • REST, .NET, WPF
 • SQL Server, MongoDB • AWS, Postman, Unity
