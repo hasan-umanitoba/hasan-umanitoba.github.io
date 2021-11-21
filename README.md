@@ -12,8 +12,18 @@ You will need the following resources before starting:
 
 ## Instructions
 ### Pick a Markdown editor
-Markdown editors are tools to convert text to HTML and allows developers and technical writers to design documents easily. I used Microsoft's [Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown) to format the resume because it comes with various extensions which supports shortcuts, style checking, and markdown linting. List of other editors are provided in [Additional Resources](https://github.com/hasan-umanitoba/hasan-umanitoba.github.io/#more-resources)
+Markdown editors are tools to convert text to HTML and allows developers and technical writers to design documents easily. I used Microsoft's [Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown) to format the resume because it comes with various extensions which supports shortcuts, style checking, and markdown linting. List of other editors are provided in [Additional Resources](https://github.com/hasan-umanitoba/hasan-umanitoba.github.io/#more-resources). 
+
 ### Formatting the resume
+I used markdown as a lightweight markup language because I found it easier to learn, read and convert to visually appealing resume. It's also a new standard for text that will be published online. By providing content for simple static sites, it works well with learning management systems and large content management systems. Andrew Etter also describes in their book that it has the cleanest syntax and markdown flavor such as 'GitHub Flavored Markdown' is a popular choice for simple web-based help systems. Using Github's flavored markdown language I formatted my resume to properly my resume into multiple sections such as : 
+*Education
+*Technical Skills
+*Work Experience
+*Projects
+*Extracurricular Activities 
+
+
+
 
 ### Setup your GitHub account
 You can [join](https://github.com/join) GitHub by filling in the username, email address, and Password
