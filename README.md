@@ -84,7 +84,7 @@ To ensure and view that your site is working correctly :
 * To learn more about static site generation and GitHub pages, click [here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
 ### Jekyll
 * To learn more about Jekyll, click [here](https://jekyllrb.com/).
-* Playlist on creating and hosting a static site. Click [here] (https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB).
+* Playlist on creating and hosting a static site. Click [here](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB).
 
 ## Authors and Acknowledgements
 
