@@ -12,13 +12,10 @@
 
 ## Technical Skills
 #### Languages 
-• Java,  C#, C / C++, CSS
-• TypeScript, JavaScript, SQL 
+• Java,  C#, C / C++, CSS, TypeScript, JavaScript, SQL 
 • XAML, XML, HTML, JSON 
 #### Software/Frameworks
-• Git, XCode, Visual Studio, Microsoft UI Automation 
-• Node.js, React, Redux, REST, .NET, WPF
-• SQL Server, MongoDB, AWS, Postman, Unity
+• Git, XCode, Visual Studio, Microsoft UI Automation, Node.js, React, Redux, REST, .NET, WPF, SQL Server, MongoDB, AWS, Postman, Unity
 • JUnit, Mocha, Selenium, Bitbucket, JIRA
 
 ---
