@@ -68,7 +68,7 @@ It is essential to have a theme of website which follow design principles. A sit
 To ensure and view that your site is working correctly :
 * Go to **Settings**
 * Click on **GitHub Pages** in the left pane.
-* Cick on the link where your site is published at in the format : https://username.github.io/ .
+* Click on the URL where your site is published at in the format : https://username.github.io/ .
 
 ## Additional Resources
 
