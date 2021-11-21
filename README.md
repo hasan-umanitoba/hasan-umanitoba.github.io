@@ -77,8 +77,8 @@ To ensure and view that your site is working correctly :
 ### Andrew Etter's book
 * To read more about Andrew Etter's Book *Modern Technical Writing* Click [here](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 ### Markdown
-* To get started with markdown syntax click [here](https://www.markdownguide.org/basic-syntax) 
-* To practice markdown using tutorials, click [here](https://www.markdowntutorial.com/)
+* To get started with markdown syntax, click [here](https://www.markdownguide.org/basic-syntax).
+* To practice markdown using tutorials, click [here](https://www.markdowntutorial.com/).
 ### GitHub Pages
 * Quickstart for GitHub pages, click [here](https://docs.github.com/en/pages/quickstart)
 * To learn more about static site generation and GitHub pages, click [here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
@@ -89,13 +89,13 @@ To ensure and view that your site is working correctly :
 ## Authors and Acknowledgements
 
 **Hasan Saleem** is the author.   
-I appreciate my course intructor Stewart Wilcox for providing the README template and guiding the format for this assignment.Thank you to Andrew Etter for writing [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS]) and introducing the strategies described.
+I appreciate my course instructor Stewart Wilcox for providing the README template and guiding the format for this assignment. Thank you to Andrew Etter for writing [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS]) and introducing the strategies described.
 Thank you to Abdullah Al Noman, Jaden Down, and Long Vu, Abu Yasin Sabik for peer editing and valuable feedback throughout this course. 
 
 ## FAQs
 
 ### Why is Markdown better than a word processor?
-markdown files can be easily kept in version control whereas Word's DOCS file format which is a collection of compressed XML files actively opposes this. Markdown is simpler and easier to convert. Markdown is also easier to understand since it's in plain text format and it's compatibility with version control allows better collaboration among individuals.  
+Markdown files can be easily kept in version control, whereas Word's DOCS file format, a collection of compressed XML files, actively opposes this. Markdown is simpler and easier to convert. Markdown is also easier to understand since it's in plain text format, and its compatibility with version control allows better collaboration among individuals.
 
 ### Why is my resume not showing up?
 To find out why your resume is not being hosted, run the following checks:
