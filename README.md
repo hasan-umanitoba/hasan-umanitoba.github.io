@@ -16,11 +16,11 @@ Markdown editors are tools to convert text to HTML and allows developers and tec
 
 ### Formatting the resume
 I used markdown as a lightweight markup language because I found it easier to learn, read and convert to visually appealing resume. It's also a new standard for text that will be published online. By providing content for simple static sites, it works well with learning management systems and large content management systems. Andrew Etter also describes in their book that it has the cleanest syntax and markdown flavor such as 'GitHub Flavored Markdown' is a popular choice for simple web-based help systems. Using Github's flavored markdown language I formatted my resume to properly my resume into multiple sections such as : 
-*Education
-*Technical Skills
-*Work Experience
-*Projects
-*Extracurricular Activities 
+* Education
+* Technical Skills
+* Work Experience
+* Projects
+* Extracurricular Activities 
 
 
 
