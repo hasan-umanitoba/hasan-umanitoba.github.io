@@ -24,7 +24,7 @@ I used markdown as a lightweight markup language because I found it easier to le
 
 It's also vital to ensure we are following a proper style while building our resumes. I made sure the writing style was consistent by using abbreviations consistently after introducing them. Also, most of the descriptions in the resume included an ordered list that showcased different responsibilities or tasks performed. I also used inline styles to highlight significant portions of the resume and to catch the reader's attention. This way, they are better able to navigate and find the information they need. There are links to more details about Github flavored Markdown under the [additional resources](#additional-resources) section.
 
-### HOSTING ON GITHUB
+### Hosting on GitHub
 
 #### What is GitHub and why do we use it?
 GitHub provides internet hosting for software development and version control using Git. It offers distributed version control and source code functionality so others can collaborate easily. It's free for users and it allows us to maintain useful lists of documents that keep them organized. Andrew Etter recommends such distributed version control to the audience as the community of developers widely accepts it. As a result, documentations and branches stay in sync, whereas developers are more likely to contribute when they don't need to clone a separate new repository.
