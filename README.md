@@ -58,7 +58,7 @@ Github and lightweight markup languages are also compatible. Etter describes in 
 * Following the same process, add a 'README.md' file the repository. 
 
 #### Updating Theme
-It is essential to have a theme of website which follow design principles. A site which is easier to understand and navigate helps the users to find required information easily. Users will be comfortable in visiting this kind of site multiple times. As Etter recommends to customize the theme by focusing on it's navigation and approachability. Special attention must be given to the colors, font sizes, page width, and spacing. This kind of customization helps to differentiate our content. Jekyll provides some built-in templates that we can use. To include a theme, follow these steps :
+It is essential to have a theme of website which follow design principles. A site which is easier to understand and navigate helps the users to find required information easily. Users will be comfortable in visiting this kind of site multiple times. As Etter recommends to customize the theme by focusing on it's navigation and approachability. Special attention must be given to the colors, font sizes, page width, and spacing. This kind of customization helps to differentiate our content. Jekyll provides some built-in templates that we can use. To include a theme, follow these steps:
 * navigate to the repository and click on **settings** button represented by a gear icon.
 * Click on **Pages** in the left pane.
 * Under the theme chooser section, click on **Change Theme** button.
