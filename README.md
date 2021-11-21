@@ -64,8 +64,11 @@ It is essential to have a theme of website which follow design principles. A sit
 * Under the theme chooser section, click on **Change Theme** button.
 * Select a theme which is appropriate for the content and press **Select Theme** button.
 
-
 #### Viewing your resume
+To ensure and view that your site is working correctly :
+* Go to **Settings**
+* Click on **GitHub Pages** in the left pane.
+* Cick on the link where your site is published at in the format : https://username.github.io/ .
 
 ## Additional Resources
 
