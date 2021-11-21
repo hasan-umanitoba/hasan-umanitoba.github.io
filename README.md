@@ -52,7 +52,7 @@ Github and lightweight markup languages are also compatible. Etter describes in 
 * Navigate to your homepage and click on the repository that you created
 * Click on **Add File** drop down menu and select an option based on your choice.
   * **Create new file** to make a new file.
-  * **Upload files** to upload exisiting file from your workstation.
+  * **Upload files** to upload exisiting files from your workstation.
 * After selecting 'index.md' as your file, click on commit new file button at the bottom. 
 * Following the same process, add a 'README.md' file the repository. 
 
