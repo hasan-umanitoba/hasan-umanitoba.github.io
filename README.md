@@ -26,8 +26,6 @@ I used markdown as a lightweight markup language because I found it easier to le
 It's also important to ensure we are following a proper style while building our resume. I made sure the writing style was consistent by using abbreviations consistently after introducing them. Also, most of the descriptions in the resume included an ordered list which showcased different responsibilities or tasks performed. I also used inline styles to highlight important portions of the resume and to catch reader's attention. This way they are better able to navigate and find information they need. There are links to more information about Github flavored Markdown under the [additional resources](#additional-resources) section.
 
 
-
-
 ### Setup your GitHub account
 You can [join](https://github.com/join) GitHub by filling in the username, email address, and Password
 on their signup page. GitHub provides internet hosting for software development and version control using Git. It offers distributed version control and source coude functionality so others can collaborate easily. It's free for users and it allows us to maintain useful lists of documents which keeps them in an organized manner.
