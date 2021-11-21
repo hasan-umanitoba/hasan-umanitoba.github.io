@@ -36,7 +36,7 @@ Github pages is a static site hosting service which can take files straight from
 The author also recommends to use Github pages to host static site. More about [Jekyll and Github Pages](#additional-resources).
 
 #### Setup your GitHub account
-* You can [join](https://github.com/join) GitHub by filling in the username, email address, and Password
+* You can [join](https://github.com/join) GitHub by filling in the username, email address, and password
 on their signup page.
 
 #### Create a repository
@@ -46,6 +46,7 @@ GitHub allows uers to build own site from scratch or generate one for our projec
 * Name the repository as username.github.io, where username is your (or organization name) username on Github
 * Select repository as Public so anyone can see this repository.
 * Click on the 'Create repository' button at the bottom of the page
+* Ensure that the sourch branch is set to main.
 
 #### Add Files
 Github and lightweight markup languages are also compatible. Etter describes in their book that lightweight markup format makes it easirer to produce well-formed XML. XML is later used in order to build websites. Adding and updating files on Github repository is an easy and quick process described below :
