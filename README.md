@@ -11,12 +11,26 @@ You will need the following resources before starting:
 * A Markdown [editor](https://code.visualstudio.com/docs/languages/markdown) and some of its [basics](https://www.markdownguide.org/basic-syntax) to start with.
 
 ## Instructions
+### Pick a Markdown editor
+Markdown editors are tools to convert text to HTML and allows developers and technical writers to design documents easily. I used Microsoft's [Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown) to format the resume because it comes with various extensions which supports shortcuts, style checking, and markdown linting. List of other editors are provided in [Additional Resources](https://github.com/hasan-umanitoba/hasan-umanitoba.github.io/#more-resources)
+### Formatting the resume
 
-### Setup your GitHub Account
-You can [join](https://github.com/join) GitHub by filling in the username, email address, and Passwordon their website. GitHub provides internet hosting for software development and version control using Git. It offers distributed version control and source coude functionality so others can collaborate easily. It's free for users and it allows us to maintain useful lists of documents which keeps them in an organized manner.
+### Setup your GitHub account
+You can [join](https://github.com/join) GitHub by filling in the username, email address, and Password
+on their signup page. GitHub provides internet hosting for software development and version control using Git. It offers distributed version control and source coude functionality so others can collaborate easily. It's free for users and it allows us to maintain useful lists of documents which keeps them in an organized manner.
 Andrew Etter recommends such distributed version control to audience as it is widely accepted by the community of developers. As a result, documentations and branches stay in sync whereas developers are more likely to contribute when they dont need to clone a separate new repository.
 
-<
+### Create a repository
+
+
+### Add Files
+
+### Updating Theme
+
+### Viewing your resume
+
+## Additional Resources
+
 
 ## Authors and Acknowledgements
 
