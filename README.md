@@ -32,6 +32,12 @@ on their signup page. GitHub provides internet hosting for software development 
 Andrew Etter recommends such distributed version control to audience as it is widely accepted by the community of developers. As a result, documentations and branches stay in sync whereas developers are more likely to contribute when they dont need to clone a separate new repository.
 
 ### Create a repository
+GitHub allows uers to build own site from scratch or generate one for our project. Andrew Etter recommends to configure our production server as remote repository and push the finished static site to it. This process adds new files, updates exisiting files and delete stale files. We can follow the process by first initiating a Github repository through the following steps :
+* Head over to GitHub [homepage](https://github.com/) screen.
+* Click on the '+' dropdown menu on the top right corner and select new repository.
+* Name the repository as username.github.io, where username is your (or organization name) username on Github
+* Select repository as Public so anyone can see this repository.
+* Click on the 'Create repository' button at the bottom of the page
 
 
 ### Add Files
