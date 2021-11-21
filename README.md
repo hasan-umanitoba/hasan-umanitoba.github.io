@@ -30,7 +30,9 @@ It's also important to ensure we are following a proper style while building our
 GitHub provides internet hosting for software development and version control using Git. It offers distributed version control and source coude functionality so others can collaborate easily. It's free for users and it allows us to maintain useful lists of documents which keeps them in an organized manner. Andrew Etter recommends such distributed version control to audience as it is widely accepted by the community of developers. As a result, documentations and branches stay in sync whereas developers are more likely to contribute when they dont need to clone a separate new repository.
 
 #### Using GitHub Pages
-You can create our own static sites or using a generator such as Jekyll.GitHub pages uses Jekyll Github pages hosts static sites
+Github pages is a static site hosting service which can take files straight from your repository and run them through a build process, and publish a website. It publishes any static site we push to our repository.You can create your own static sites or using a static site generator such as Jekyll. By default, Github pages will use jekyll to build. Andrew Etter displays their love for the static sites by saying :
+< I love them. I love their speed, simplicity, portability, and security. 
+The author also recommends to use Github pages to host static site. More about [Jekyll and Github Pages](#additional-resources).
 
 #### Setup your GitHub account
 * You can [join](https://github.com/join) GitHub by filling in the username, email address, and Password
