@@ -12,9 +12,9 @@
 
 ## Technical Skills
 #### Languages 
-• Java • C# • C / C++
+• Java • C# • C / C++ • CSS
 • TypeScript, JavaScript • SQL 
-• XAML, XML • HTML, CSS • JSON 
+• XAML, XML • HTML • JSON 
 #### Software/Frameworks
 • Git, XCode, Visual Studio • Microsoft UI Automation 
 • Node.js, React, Redux • REST, .NET, WPF
