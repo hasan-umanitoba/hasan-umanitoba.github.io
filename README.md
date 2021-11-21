@@ -93,3 +93,13 @@ I appreciate my course intructor Stewart Wilcox for providing the README templat
 Thank you to Abu Yasin Sabik, Abdullah Al Noman, Muhammad Hasan Saleem, and Long Vu for peer editing.  
 
 ## FAQs
+
+### Why is Markdown better than a word processor?
+markdown files can be easily kept in version control whereas Word's DOCS file format which is a collection of compressed XML files actively opposes this. Markdown is simpler and easier to convert. Markdown is also easier to understand since it's in plain text format and it's compatibility with version control allows better collaboration among individuals.  
+
+### Why is my resume not showing up?
+To find out why your resume is not being hosted, run the following checks:
+* Ensure **index.md** file is in your repository's main branch? 
+* Verify the username of your repository matches your GitHub account's username and is in the format username.github.io
+* Navigate to settings and then pages. Ensure that Github says your site is published.
+
