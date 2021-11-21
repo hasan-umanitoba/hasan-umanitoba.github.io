@@ -20,7 +20,8 @@ I used markdown as a lightweight markup language because I found it easier to le
 * Technical Skills
 * Work Experience
 * Projects
-* Extracurricular Activities There are links to more information about Github flavored Markdown under the [additional resources](#additional-resources) section.
+* Extracurricular Activities
+There are links to more information about Github flavored Markdown under the [additional resources](#additional-resources) section.
 
 
 
