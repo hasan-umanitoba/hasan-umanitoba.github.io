@@ -6,7 +6,9 @@ This README describes how to host a resume on Github pages using the strategies 
 
 ## Prerequisites
 You will need the following resources :
-* A Resume for a prospective employer in your field of work. It should be formatted in Markdown and named 'index.md'
+* A resume for a prospective employer in your field of work. It should be formatted in [Markdown](https://www.markdownguide.org/basic-syntax/) and named 'index.md'
+* A [GitHub](https://github.com/) account.
+* A Markdown [editor](https://code.visualstudio.com/docs/languages/markdown). 
 
 ## Instructions
 
