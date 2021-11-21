@@ -99,7 +99,7 @@ Markdown files can be easily kept in version control, whereas Word's DOCS file f
 
 ### Why is my resume not showing up?
 To find out why your resume is not being hosted, run the following checks:
-* Ensure **index.md** file is in your repository's main branch?.
+* Make sure that **index.md** file is in your repository's main branch.
 * Verify the **username** of your repository matches your GitHub account's username and is in the format username.github.io .
 * Navigate to the settings of the repository and then pages on left pane. Ensure that Github says your site is **published** in the following format : 
 >  Your site is published at https://username.github.io/ ...
