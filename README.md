@@ -15,12 +15,12 @@ Markdown editors are tools to convert text to HTML and allow developers and tech
 
 ### Formatting the resume
 I used markdown as a lightweight markup language because I found it easier to learn, read and convert to a visually appealing resume. It's also a new standard for the text that will be published online. Providing content for simple static sites works well with learning management systems and large content management systems. Andrew Etter also describes in their book that it has the cleanest syntax and markdown flavor, such as 'GitHub Flavored Markdown' is a popular choice for simple web-based help systems. Using Github's flavored markdown language, I formatted my resume into multiple sections such as :
-* Personal Information
-* Education
-* Technical Skills
-* Work Experience
-* Projects
-* Extracurricular Activities
+1. Personal Information
+2. Education
+3. Technical Skills
+4. Work Experience
+5. Projects
+6. Extracurricular Activities
 
 It's also vital to ensure we are following a proper style while building our resumes. I made sure the writing style was consistent by using abbreviations consistently after introducing them. Also, most of the descriptions in the resume included an ordered list that showcased different responsibilities or tasks performed. I also used inline styles to highlight significant portions of the resume and to catch the reader's attention. This way, they are better able to navigate and find the information they need. There are links to more details about Github flavored Markdown under the [additional resources](#additional-resources) section.
 
@@ -41,34 +41,34 @@ on their signup page.
 
 #### Create a repository
 GitHub allows users to build their site from scratch or generate one for our project. Andrew Etter recommends  configuring our production server as a remote repository and pushing the finished static site to it. This process adds new files, updates exisiting files and deletes stale files. We can follow the process by first initiating a Github repository through the following steps :
-* Head over to the GitHub [homepage](https://github.com/) screen.
-* Click on the '+' dropdown menu on the top right corner and select the new repository.
-* Name the repository as username.github.io, where username is your (or organization name) username on Github
-* Select repository as Public so anyone can see this repository.
-* Click on the 'Create repository' button at the bottom of the page
-* Ensure that the source branch is set to main.
+1. Head over to the GitHub [homepage](https://github.com/) screen.
+2. Click on the '+' dropdown menu on the top right corner and select the new repository.
+3. Name the repository as username.github.io, where username is your (or organization name) username on Github
+4. Select repository as Public so anyone can see this repository.
+5. Click on the 'Create repository' button at the bottom of the page
+6. Ensure that the source branch is set to main.
 
 #### Add Files
 Github and lightweight markup languages are also compatible. Etter describes in their book that a lightweight markup format makes it easier to produce well-formed XML. XML is later used to build websites. Adding and updating files on the Github repository is an easy and quick process described below :
-* Navigate to your homepage and click on the repository that you created
-* Click on **Add File** drop-down menu and select an option based on your choice.
+1. Navigate to your homepage and click on the repository that you created
+2. Click on **Add File** drop-down menu and select an option based on your choice.
   * **Create new file** to make a new file.
   * **Upload files** to upload existing files from your workstation.
-* After selecting 'index.md' as your file, click on the commit new file button at the bottom. 
-* Following the same process, add a 'README.md' file to the repository. 
+3. After selecting 'index.md' as your file, click on the commit new file button at the bottom. 
+4. Following the same process, add a 'README.md' file to the repository. 
 
 #### Updating Theme
 It is essential to have a theme of the website which follows design principles. A site that is easier to understand and navigate helps the users to find the required information easily. Users will be comfortable  visiting this kind of site multiple times. As Etter recommends to customize the theme by focusing on its navigation and approachability. Special attention must be given to the colors, font sizes, page width, and spacing. This kind of customization helps to differentiate our content. Jekyll provides some built-in templates that we can use. To include a theme, follow these steps:
-* navigate to the repository and click on the **settings** button represented by a gear icon.
-* Click on **Pages** in the left pane.
-* Under the theme chooser section, click on the **Change Theme** button.
-* Select a theme that is appropriate for the content and press the **Select Theme** button.
+1. navigate to the repository and click on the **settings** button represented by a gear icon.
+2. Click on **Pages** in the left pane.
+3. Under the theme chooser section, click on the **Change Theme** button.
+4. Select a theme that is appropriate for the content and press the **Select Theme** button.
 
 #### Viewing your resume
 To ensure and view that your site is working correctly :
-* Go to **Settings**
-* Click on **GitHub Pages** in the left pane.
-* Click on the URL where your site is published at in the format : https://username.github.io/ .
+1. Go to **Settings**
+2. Click on **GitHub Pages** in the left pane.
+3. Click on the URL where your site is published at in the format : https://username.github.io/ .
 
 ![Preview of resume](resume.gif)
 
