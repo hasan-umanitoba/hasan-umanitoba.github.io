@@ -31,7 +31,7 @@ GitHub provides internet hosting for software development and version control us
 
 #### Using GitHub Pages
 Github pages is a static site hosting service which can take files straight from your repository and run them through a build process, and publish a website. It publishes any static site we push to our repository.You can create your own static sites or using a static site generator such as Jekyll. By default, Github pages will use jekyll to build. Andrew Etter displays their love for the static sites by saying :
-< I love them. I love their speed, simplicity, portability, and security. 
+> I love them. I love their speed, simplicity, portability, and security..
 The author also recommends to use Github pages to host static site. More about [Jekyll and Github Pages](#additional-resources).
 
 #### Setup your GitHub account
