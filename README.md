@@ -74,6 +74,18 @@ To ensure and view that your site is working correctly :
 
 ## Additional Resources
 
+### Andrew Etter's book
+* To read more about Andrew Etter's Book *Modern Technical Writing* Click [here](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+### Markdown
+* To get started with markdown syntax click [here](https://www.markdownguide.org/basic-syntax) 
+* To practice markdown using tutorials, click [here](https://www.markdowntutorial.com/)
+### GitHub Pages
+* Quickstart for GitHub pages, click [here](https://docs.github.com/en/pages/quickstart)
+* To learn more about static site generation and GitHub pages, click [here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
+### Jekyll
+* To learn more about Jekyll, click [here](https://jekyllrb.com/).
+* Playlist on creating and hosting a static site. Click [here] (https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB).
+
 ## Authors and Acknowledgements
 
 **Hasan Saleem** is the author.   
