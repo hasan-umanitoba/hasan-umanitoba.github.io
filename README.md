@@ -35,34 +35,34 @@ Github Pages is a static site hosting service that can take files straight from 
 
 The author also recommends to use Github pages to host static site. More about [Jekyll and Github Pages](#additional-resources).
 
-#### Setup your GitHub account
+#### Set up your GitHub account
 * You can [join](https://github.com/join) GitHub by filling in the username, email address, and password
 on their signup page.
 
 #### Create a repository
-GitHub allows uers to build own site from scratch or generate one for our project. Andrew Etter recommends to configure our production server as remote repository and push the finished static site to it. This process adds new files, updates exisiting files and delete stale files. We can follow the process by first initiating a Github repository through the following steps :
-* Head over to GitHub [homepage](https://github.com/) screen.
-* Click on the '+' dropdown menu on the top right corner and select new repository.
+GitHub allows users to build their site from scratch or generate one for our project. Andrew Etter recommends  configuring our production server as a remote repository and pushing the finished static site to it. This process adds new files, updates exisiting files and deletes stale files. We can follow the process by first initiating a Github repository through the following steps :
+* Head over to the GitHub [homepage](https://github.com/) screen.
+* Click on the '+' dropdown menu on the top right corner and select the new repository.
 * Name the repository as username.github.io, where username is your (or organization name) username on Github
 * Select repository as Public so anyone can see this repository.
 * Click on the 'Create repository' button at the bottom of the page
-* Ensure that the sourch branch is set to main.
+* Ensure that the source branch is set to main.
 
 #### Add Files
-Github and lightweight markup languages are also compatible. Etter describes in their book that lightweight markup format makes it easirer to produce well-formed XML. XML is later used in order to build websites. Adding and updating files on Github repository is an easy and quick process described below :
+Github and lightweight markup languages are also compatible. Etter describes in their book that a lightweight markup format makes it easier to produce well-formed XML. XML is later used to build websites. Adding and updating files on the Github repository is an easy and quick process described below :
 * Navigate to your homepage and click on the repository that you created
-* Click on **Add File** drop down menu and select an option based on your choice.
+* Click on **Add File** drop-down menu and select an option based on your choice.
   * **Create new file** to make a new file.
-  * **Upload files** to upload exisiting files from your workstation.
-* After selecting 'index.md' as your file, click on commit new file button at the bottom. 
-* Following the same process, add a 'README.md' file the repository. 
+  * **Upload files** to upload existing files from your workstation.
+* After selecting 'index.md' as your file, click on the commit new file button at the bottom. 
+* Following the same process, add a 'README.md' file to the repository. 
 
 #### Updating Theme
-It is essential to have a theme of website which follow design principles. A site which is easier to understand and navigate helps the users to find required information easily. Users will be comfortable in visiting this kind of site multiple times. As Etter recommends to customize the theme by focusing on it's navigation and approachability. Special attention must be given to the colors, font sizes, page width, and spacing. This kind of customization helps to differentiate our content. Jekyll provides some built-in templates that we can use. To include a theme, follow these steps:
-* navigate to the repository and click on **settings** button represented by a gear icon.
+It is essential to have a theme of the website which follows design principles. A site that is easier to understand and navigate helps the users to find the required information easily. Users will be comfortable  visiting this kind of site multiple times. As Etter recommends to customize the theme by focusing on its navigation and approachability. Special attention must be given to the colors, font sizes, page width, and spacing. This kind of customization helps to differentiate our content. Jekyll provides some built-in templates that we can use. To include a theme, follow these steps:
+* navigate to the repository and click on the **settings** button represented by a gear icon.
 * Click on **Pages** in the left pane.
-* Under the theme chooser section, click on **Change Theme** button.
-* Select a theme which is appropriate for the content and press **Select Theme** button.
+* Under the theme chooser section, click on the **Change Theme** button.
+* Select a theme that is appropriate for the content and press the **Select Theme** button.
 
 #### Viewing your resume
 To ensure and view that your site is working correctly :
