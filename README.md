@@ -62,7 +62,7 @@ It is essential to have a theme of website which follow design principles. A sit
 * navigate to the repository and click on **settings** button represented by a gear icon.
 * Click on **Pages** in the left pane.
 * Under the theme chooser section, click on **Change Theme** button.
-* Select a theme which is appropriate for the content and press **Select Theme**.
+* Select a theme which is appropriate for the content and press **Select Theme** button.
 
 
 #### Viewing your resume
