@@ -70,6 +70,8 @@ To ensure and view that your site is working correctly :
 * Click on **GitHub Pages** in the left pane.
 * Click on the URL where your site is published at in the format : https://username.github.io/ .
 
+![Preview of resume](resume.gif)
+
 ## Additional Resources
 
 ## Authors and Acknowledgements
