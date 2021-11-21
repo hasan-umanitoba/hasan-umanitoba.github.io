@@ -47,7 +47,7 @@ GitHub allows uers to build own site from scratch or generate one for our projec
 * Select repository as Public so anyone can see this repository.
 * Click on the 'Create repository' button at the bottom of the page
 
-### Add Files
+#### Add Files
 Github and lightweight markup languages are also compatible. Etter describes in their book that lightweight markup format makes it easirer to produce well-formed XML. XML is later used in order to build websites. Adding and updating files on Github repository is an easy and quick process described below :
 * Navigate to your homepage and click on the repository that you created
 * Click on **Add File** drop down menu and select an option based on your choice.
@@ -56,9 +56,9 @@ Github and lightweight markup languages are also compatible. Etter describes in 
 * After selecting 'index.md' as your file, click on commit new file button at the bottom. 
 * Following the same process, add a 'README.md' file the repository. 
 
-### Updating Theme
+#### Updating Theme
 
-### Viewing your resume
+#### Viewing your resume
 
 ## Additional Resources
 
