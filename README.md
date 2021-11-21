@@ -14,7 +14,7 @@ You will need the following resources before starting:
 Markdown editors are tools to convert text to HTML and allow developers and technical writers to design documents easily. I used Microsoft's [Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown) to format the resume because it comes with various extensions which support shortcuts, style checking, and markdown linting. A list of other editors is provided in [Additional Resources](https://github.com/hasan-umanitoba/hasan-umanitoba.github.io/#more-resources). 
 
 ### Formatting the resume
-I used markdown as a lightweight markup language because I found it easier to learn, read and convert to visually appealing resume. It's also a new standard for text that will be published online. By providing content for simple static sites, it works well with learning management systems and large content management systems. Andrew Etter also describes in their book that it has the cleanest syntax and markdown flavor such as 'GitHub Flavored Markdown' is a popular choice for simple web-based help systems. Using Github's flavored markdown language I formatted my resume to properly my resume into multiple sections such as :
+I used markdown as a lightweight markup language because I found it easier to learn, read and convert to a visually appealing resume. It's also a new standard for the text that will be published online. Providing content for simple static sites works well with learning management systems and large content management systems. Andrew Etter also describes in their book that it has the cleanest syntax and markdown flavor, such as 'GitHub Flavored Markdown' is a popular choice for simple web-based help systems. Using Github's flavored markdown language, I formatted my resume into multiple sections such as :
 * Personal Information
 * Education
 * Technical Skills
@@ -22,7 +22,7 @@ I used markdown as a lightweight markup language because I found it easier to le
 * Projects
 * Extracurricular Activities
 
-It's also important to ensure we are following a proper style while building our resume. I made sure the writing style was consistent by using abbreviations consistently after introducing them. Also, most of the descriptions in the resume included an ordered list which showcased different responsibilities or tasks performed. I also used inline styles to highlight important portions of the resume and to catch reader's attention. This way they are better able to navigate and find information they need. There are links to more information about Github flavored Markdown under the [additional resources](#additional-resources) section.
+It's also vital to ensure we are following a proper style while building our resumes. I made sure the writing style was consistent by using abbreviations consistently after introducing them. Also, most of the descriptions in the resume included an ordered list that showcased different responsibilities or tasks performed. I also used inline styles to highlight significant portions of the resume and to catch the reader's attention. This way, they are better able to navigate and find the information they need. There are links to more details about Github flavored Markdown under the [additional resources](#additional-resources) section.
 
 ### HOSTING ON GITHUB
 
