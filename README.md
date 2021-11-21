@@ -89,8 +89,8 @@ To ensure and view that your site is working correctly :
 ## Authors and Acknowledgements
 
 **Hasan Saleem** is the author.   
-I appreciate my course intructor Stewart Wilcox for providing the README template.Thank you to Andrew Etter for writing [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS]) and introducing the concepts described here.
-Thank you to Abu Yasin Sabik, Abdullah Al Noman, Muhammad Hasan Saleem, and Long Vu for peer editing.  
+I appreciate my course intructor Stewart Wilcox for providing the README template and guiding the format for this assignment.Thank you to Andrew Etter for writing [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS]) and introducing the strategies described.
+Thank you to Abdullah Al Noman, Jaden Down, and Long Vu, Abu Yasin Sabik, for peer editing.  
 
 ## FAQs
 
