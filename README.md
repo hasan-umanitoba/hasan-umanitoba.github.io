@@ -3,7 +3,6 @@
 ## Purpose 
 This README describes how to host a resume on Github pages using the strategies mentioned in Andrew Etter's book [**Modern Technical Writing**](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS). The book emphasized on helping people create documentation in a sensible way which can increase reader's knowledge. 
 
-
 ## Prerequisites
 You will need the following resources before starting:
 * A resume for a prospective employer in your field of work. It should be formatted in [Markdown](https://www.markdownguide.org/basic-syntax/) and named 'index.md'
@@ -25,20 +24,25 @@ I used markdown as a lightweight markup language because I found it easier to le
 
 It's also important to ensure we are following a proper style while building our resume. I made sure the writing style was consistent by using abbreviations consistently after introducing them. Also, most of the descriptions in the resume included an ordered list which showcased different responsibilities or tasks performed. I also used inline styles to highlight important portions of the resume and to catch reader's attention. This way they are better able to navigate and find information they need. There are links to more information about Github flavored Markdown under the [additional resources](#additional-resources) section.
 
+### HOSTING ON GITHUB
 
-### Setup your GitHub account
-You can [join](https://github.com/join) GitHub by filling in the username, email address, and Password
-on their signup page. GitHub provides internet hosting for software development and version control using Git. It offers distributed version control and source coude functionality so others can collaborate easily. It's free for users and it allows us to maintain useful lists of documents which keeps them in an organized manner.
-Andrew Etter recommends such distributed version control to audience as it is widely accepted by the community of developers. As a result, documentations and branches stay in sync whereas developers are more likely to contribute when they dont need to clone a separate new repository.
+#### What is GitHub and why do we use it?
+GitHub provides internet hosting for software development and version control using Git. It offers distributed version control and source coude functionality so others can collaborate easily. It's free for users and it allows us to maintain useful lists of documents which keeps them in an organized manner. Andrew Etter recommends such distributed version control to audience as it is widely accepted by the community of developers. As a result, documentations and branches stay in sync whereas developers are more likely to contribute when they dont need to clone a separate new repository.
 
-### Create a repository
+#### Using GitHub Pages
+You can create our own static sites or using a generator such as Jekyll.GitHub pages uses Jekyll Github pages hosts static sites
+
+#### Setup your GitHub account
+* You can [join](https://github.com/join) GitHub by filling in the username, email address, and Password
+on their signup page.
+
+#### Create a repository
 GitHub allows uers to build own site from scratch or generate one for our project. Andrew Etter recommends to configure our production server as remote repository and push the finished static site to it. This process adds new files, updates exisiting files and delete stale files. We can follow the process by first initiating a Github repository through the following steps :
 * Head over to GitHub [homepage](https://github.com/) screen.
 * Click on the '+' dropdown menu on the top right corner and select new repository.
 * Name the repository as username.github.io, where username is your (or organization name) username on Github
 * Select repository as Public so anyone can see this repository.
 * Click on the 'Create repository' button at the bottom of the page
-
 
 ### Add Files
 
@@ -47,7 +51,6 @@ GitHub allows uers to build own site from scratch or generate one for our projec
 ### Viewing your resume
 
 ## Additional Resources
-
 
 ## Authors and Acknowledgements
 
